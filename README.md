@@ -3,8 +3,8 @@
 Objective
 -------------------------------------------------------------------------------------------------------------------------------------------------
 The objective of this project is to explore 2019 Stack Overflow Developer Survey Data and analyze the differences in responses between 2 groups - 
- 	- Respondents in Data Science roles
-	- Respondents in Non Data Science roles
+- Respondents in Data Science roles
+- Respondents in Non Data Science roles
 
 Tools & Packages Used
 -------------------------------------------------------------------------------------------------------------------------------------------------
