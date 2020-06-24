@@ -1,4 +1,4 @@
-2019 Stack Overflow Developer Survey Data Analysis
+## 2019 Stack Overflow Developer Survey Data Analysis
 
 Objective
 -------------------------------------------------------------------------------------------------------------------------------------------------
@@ -22,14 +22,14 @@ The dataset is derived from Stack Overflow Annual Developer Survey 2019 availabl
 
 Analytical Questions Explored
 -------------------------------------------------------------------------------------------------------------------------------------------------
-What are the most popular job roles?
-What does a Data Scientist profile look like vs. Non Data Scientist profile?
-What programming langugaesdo data scientists mostly work with?
-What is the difference in Education qualifications of Data Scientists vs. Non- Data Scientists?
-Do Data Scientists work with other non-degree programs? If yes, what are they?
-What employement types are data scientists interested in?
-Do data scientists have more coding experience than non data scientists?
-Do data scientists feel they are competent enough with the experience they have?
+- What are the most popular job roles?
+- What does a Data Scientist profile look like vs. Non Data Scientist profile?
+- What programming langugaesdo data scientists mostly work with?
+- What is the difference in Education qualifications of Data Scientists vs. Non- Data Scientists?
+- Do Data Scientists work with other non-degree programs? If yes, what are they?
+- What employement types are data scientists interested in?
+- Do data scientists have more coding experience than non data scientists?
+- Do data scientists feel they are competent enough with the experience they have?
 
 Results
 ------------------------------------------------------------------------------------------------------------------------------------------------- 
