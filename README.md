@@ -6,6 +6,12 @@ The objective of this project is to explore 2019 Stack Overflow Developer Survey
 - Respondents in Data Science roles
 - Respondents in Non Data Science roles
 
+Files in the Repo
+-------------------------------------------------------------------------------------------------------------------------------------------------
+- so_survey_2019.pdf - StackOverflow survey questions file
+- survey_results_schema.csv - StackOverflow survey questions and columns mapping
+- StackOverflow2019_Analysis.ipynb - Data Analysis .ipynb file
+
 Tools & Packages Used
 -------------------------------------------------------------------------------------------------------------------------------------------------
 The following packages are required to execute the code in the jupyter notebook. They all come with the Anaconda Python distribution
